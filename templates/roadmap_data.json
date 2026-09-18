@@ -1,0 +1,83 @@
+{
+    "python developer": [
+        "Learn Python fundamentals",
+        "Learn variables, data types and operators",
+        "Learn conditions and loops",
+        "Learn functions",
+        "Learn lists, tuples, sets and dictionaries",
+        "Learn file handling",
+        "Learn exception handling",
+        "Learn Object-Oriented Programming",
+        "Learn SQL and databases",
+        "Learn Git and GitHub",
+        "Learn APIs",
+        "Learn Flask or Django",
+        "Build Python projects",
+        "Create a GitHub portfolio",
+        "Prepare for Python interviews"
+    ],
+
+    "data scientist": [
+        "Learn Python",
+        "Learn NumPy",
+        "Learn Pandas",
+        "Learn Matplotlib",
+        "Learn Seaborn",
+        "Learn statistics",
+        "Learn probability",
+        "Learn data preprocessing",
+        "Learn machine learning",
+        "Learn model evaluation",
+        "Practice with datasets",
+        "Build machine learning projects",
+        "Create a data science portfolio",
+        "Prepare for interviews"
+    ],
+
+    "machine learning engineer": [
+        "Learn Python",
+        "Learn NumPy and Pandas",
+        "Learn mathematics for machine learning",
+        "Learn statistics",
+        "Learn machine learning algorithms",
+        "Learn scikit-learn",
+        "Learn model evaluation",
+        "Learn deep learning basics",
+        "Learn TensorFlow or PyTorch",
+        "Build machine learning projects",
+        "Learn Git and GitHub",
+        "Create a machine learning portfolio",
+        "Prepare for technical interviews"
+    ],
+
+    "cyber security": [
+        "Learn computer fundamentals",
+        "Learn networking",
+        "Learn Linux",
+        "Learn Python",
+        "Learn operating systems",
+        "Learn cybersecurity fundamentals",
+        "Learn cryptography concepts",
+        "Learn web security concepts",
+        "Practice in legal security labs",
+        "Learn security tools",
+        "Build cybersecurity projects",
+        "Create a security portfolio",
+        "Prepare for security interviews"
+    ],
+
+    "data analyst": [
+        "Learn Excel fundamentals",
+        "Learn Python",
+        "Learn NumPy",
+        "Learn Pandas",
+        "Learn SQL",
+        "Learn statistics",
+        "Learn data visualization",
+        "Learn Matplotlib and Seaborn",
+        "Practice with real datasets",
+        "Build data analysis projects",
+        "Create a portfolio",
+        "Prepare for interviews"
+    ]
+}
